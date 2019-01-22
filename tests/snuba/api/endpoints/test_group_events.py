@@ -254,9 +254,9 @@ class GroupEventsTest(APITestCase, SnubaTestCase):
             datetime=self.min_ago,
             group=group,
             message="foo",
-            tags={
-                'logger': 'python',
-            }
+            tags=[
+                {'key': 'logger', 'value': 'python'}
+            ]
         )
 
         response = self.client.get(u'/api/0/issues/{}/events/'.format(group.id))
