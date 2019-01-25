@@ -1,8 +1,9 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) 2018 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# 
+#
 # Translators:
+# Michiel van Roon <michiel@michielvanroon.nl>, 2019
 # Alex Bouma <me@alexbouma.me>, 2015
 # Bart de Water <bartdewater@gmail.com>, 2015
 # Bart de Goede <bart@dispectu.com>, 2012
